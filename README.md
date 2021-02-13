@@ -3,7 +3,7 @@
 ## I'm an Academic, Manager, Developer, and Explorer!
 - I'm currently working as an [UpWork Freelancer][upwork]!
 - I'm looking pursuing a masters education
-- 2020 Goals: Contribute more to open source projects and establish a good UpWork profile
+- 2021 Goals: Contribute more to open source projects and establish a good UpWork profile
 - Fun fact: I love to draw!
 
 ### Connect with me:
