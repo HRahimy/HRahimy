@@ -1,16 +1,8 @@
 ### Hi there, I'm Hamza
 
-## I'm an Academic, Developer, and Explorer!
-
-- I'm currently working as an [UpWork Freelancer][upwork]!
-- I'm looking pursuing a masters education
-- 2021 Goals: Contribute more to open source projects and establish a good UpWork profile
-- Fun fact: I love to draw!
-
 ### Connect with me:
 
 - [<img align="left" alt="HRahimy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-- [<img align="left" alt="HRahimy | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg">][upwork]
 - [<img align="left" alt="HRahimy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 
 ### Languages and Tools:
@@ -38,6 +30,5 @@
 <br />
 <br />
 
-[upwork]: https://www.upwork.com/freelancers/~01217b0c953a48c734?viewMode=1
 [linkedin]: https://www.linkedin.com/in/hamza-rahimy-a9550a147
 [instagram]: https://www.instagram.com/rahimyhamza/
